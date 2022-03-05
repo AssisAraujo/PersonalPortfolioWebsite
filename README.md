@@ -3,7 +3,7 @@
 ##  Acesse o projeto
 **[Acessar aqui](https://portifolioweb-assis.netlify.app/)**
  
-
+![image](https://github.com/AssisAraujo/PersonalPortfolioWebsite/blob/main/assets/img/img-1.png)
 
 ![image](https://user-images.githubusercontent.com/54477660/156861660-ff55b253-9f31-4319-ab0a-b189d5d9c127.png)
 
@@ -18,8 +18,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ## Como executar o projeto
-
-Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
