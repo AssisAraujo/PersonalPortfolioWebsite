@@ -6,6 +6,9 @@
 
 ![mockup](https://github.com/AssisAraujo/dsmovie/blob/main/assets/Sem%20t%C3%ADtulo-2.png)
 
+![image](https://user-images.githubusercontent.com/54477660/156861660-ff55b253-9f31-4319-ab0a-b189d5d9c127.png)
+
+
 
 ## Sobre o projeto 
 
