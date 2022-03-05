@@ -1,5 +1,6 @@
-# 🔥 Responsive Portfolio Website Ansel
-## [Watch it on youtube](https://youtu.be/oy8dSsK57Ps)
+# 🔥 Responsive Portfolio Website Assis
+
+
 ### 🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
@@ -8,6 +9,11 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+##  Acesse o projeto
+**[Acessar aqui](https://portifolioweb-assis.netlify.app/)**
+ 
+## Sobre o projeto 
 
-![preview img](/preview.png)
+
+O **Responsive Portfolio Website** é uma aplicação website desenvolvido em HTML CSS & JavaScript, seguindo o tutorial b
+
